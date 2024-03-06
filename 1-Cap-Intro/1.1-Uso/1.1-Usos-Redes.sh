@@ -26,5 +26,3 @@ Sistema distribuído
     Várias máquinas interdependentes apresentan-se ao usuário como um sistema coerente
     EX World Wide Web
 '''
-#pag. 
-#file:///L:/Linear_/Base-Jump_04/Redes%20De%20Computadores%20-%20Tanenbaum%20-%205%C2%AA%20Edi%C3%A7%C3%A3o%20-%20pdf.pdf
